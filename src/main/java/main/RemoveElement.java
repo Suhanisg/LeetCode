@@ -10,6 +10,7 @@ public class RemoveElement {
                     index++;
                 }
             }
+
             return index;
         }
     }
